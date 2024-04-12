@@ -18,7 +18,7 @@ export default {
         {
           id: 2,
           name: "Instagram",
-          url: "https://www.instagram.com/marwin_rop5411/",
+          url: "https://www.instagram.com/marvin_rop_/",
           img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png",
         },
         {
