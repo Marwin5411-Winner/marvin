@@ -22,5 +22,8 @@
   },
   "resolutions": {
     "ufo": "1.5.3"
+  },
+  "dependencies": {
+    "aos": "^2.3.4"
   }
 }

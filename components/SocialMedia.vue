@@ -4,19 +4,19 @@ const socials = ref([
     id: 1,
     name: "Facebook",
     url: "https://www.facebook.com/win.rop48/",
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png",
+    img: "/images/Facebook_Logo.webp",
   },
   {
     id: 2,
     name: "Instagram",
     url: "https://www.instagram.com/marvin_rop_/",
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png",
+    img: "/images/Instagram-Icon.png",
   },
   {
     id: 4,
     name: "Github",
     url: "https://github.com/Marwin5411-Winner",
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png",
+    img: "/images/Octicons-mark-github.svg.png",
   },
   {
     id: 5,

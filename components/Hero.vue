@@ -20,7 +20,7 @@
   <style>
   .hero-section {
     position: relative;
-    background-image: url('https://www.ghibli.jp/gallery/kazetachinu024.jpg'); /* Replace with your custom background */
+    background-image: url('/assets/kazetachinu024.jpg'); /* Replace with your custom background */
     background-size: cover;
     background-position: center;
     height: 100vh;
